@@ -17651,6 +17651,12 @@
     githubId = 84395723;
     name = "Lukas Wurzinger";
   };
+  lukasz-zet = {
+    email = "lukasz.zet.173@gmail.com";
+    github = "lukasz-zet";
+    githubId = 21034618;
+    name = "Lukasz Zalewski";
+  };
   luke = {
     email = "luke@maraud.earth";
     github = "LukeDSchenk";
